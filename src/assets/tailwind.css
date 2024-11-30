@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    /* 消除 container 白边 */
+    margin: 0;
+}
